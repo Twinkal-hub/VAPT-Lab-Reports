@@ -26,7 +26,7 @@ OWASP Juice Shop Login Page
 - Prepared statements
 
 ## Proof
-- ### 🔹 Payload Injection (Login Bypass)
+### 🔹 Payload Injection (Login Bypass)
 ![SQL Injection Payload](8.png)
 
 ### 🔹 Admin Access Achieved
