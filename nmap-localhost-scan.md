@@ -48,15 +48,19 @@ Mitigation:
 Screenshots:
 
 Basic Scan:
+
 ![Basic](nmap1.png)
 
 Service Scan:
+
 ![Service](nmap2.png)
 
 Advanced Scan:
+
 ![Advanced](namp3.png)
 
 Port Scan:
+
 ![Port](nmap4.png)
 
 Conclusion:
