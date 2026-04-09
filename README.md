@@ -28,10 +28,15 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 - Demonstrated DOM-based XSS vulnerability  
 - Executed JavaScript payload in browser (alert)  
 - Observed input sanitization and bypass techniques  
-- Documented impact and mitigation strategies  
-- Included proof with screenshots  
+- Documented impact and mitigation strategies   
 - Result: Successfully achieved client-side script execution  
 👉 [View Report](./xss-juice-shop.md)
+
+### 🔹 Nmap Scanning – Localhost
+- Performed network scanning and service enumeration using Nmap  
+- Identified open ports and running services  
+- Analyzed potential attack surface  
+👉 [View Report](./nmap-localhost-scan.md)
 
 ## 🎯 Career Objective
 To develop advanced expertise in cybersecurity and contribute to securing real-world applications as a professional penetration tester.
