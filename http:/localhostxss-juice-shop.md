@@ -37,4 +37,4 @@ Successfully demonstrated DOM-based Cross-Site Scripting (XSS) vulnerability wit
 During testing, a minor console syntax error was observed due to DOM manipulation. However, successful JavaScript execution confirms the presence of XSS vulnerability.
 
 ## Proof
-![XSS Proof]()
+![XSS Proof](XSS.png)
