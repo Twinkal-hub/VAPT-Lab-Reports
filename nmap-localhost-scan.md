@@ -1,12 +1,12 @@
 # Nmap Scan - Localhost
 
--Overview:
+Overview:
 This project shows how I used Nmap to scan my system (localhost) and find open ports, services, and security risks.
 
--Target:
+Target:
 127.0.0.1 (localhost)
 
--Commands Used:
+Commands Used:
 nmap localhost
 nmap 127.0.0.1
 nmap -A localhost
@@ -14,7 +14,7 @@ nmap -p 80,443 localhost
 sudo nmap -sS localhost
 sudo nmap -sU localhost
 
--Findings:
+Findings:
 Open Ports:
 - 21 → FTP
 - 80 → HTTP
@@ -53,7 +53,7 @@ Service Scan:
 ![Service](nmap2.png)
 
 Advanced Scan:
-![Advanced](nmap3.png)
+![Advanced](namp3.png)
 
 Port Scan:
 ![Port](nmap4.png)
