@@ -46,6 +46,7 @@ Mitigation:
 - Do regular scans
 
 Screenshots:
+
 Basic Scan:
 ![Basic](nmap1.png)
 
