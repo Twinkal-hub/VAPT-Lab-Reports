@@ -1,15 +1,16 @@
 🔐 VAPT Lab Reports
 
-This repository highlights my hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), focused on identifying, exploiting, and documenting real-world web application security vulnerabilities.
+This repository highlights my hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), focusing on identifying, exploiting, and documenting real-world web application vulnerabilities.
 
-> Hands-on cybersecurity projects demonstrating real-world vulnerability exploitation and security analysis.
+> Hands-on cybersecurity projects demonstrating real-world vulnerability exploitation and network reconnaissance.
 
-## 🧠 Core Competencies
+## 🧠 Skills Demonstrated
 - SQL Injection (Authentication Bypass)
+- Cross-Site Scripting (XSS)
+- Network Scanning (Nmap)
 - Web Application Security Testing
-- Vulnerability Identification & Exploitation
-- Security Analysis & Technical Reporting
-
+- Vulnerability Analysis & Reporting
+  
 ## 🛠️ Tools & Technologies
 - Burp Suite (Web Application Testing)
 - Nmap (Network Scanning)
