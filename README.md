@@ -20,7 +20,15 @@ This repository highlights my hands-on experience in **Vulnerability Assessment 
 - Successfully gained unauthorized administrative access
 - Analyzed vulnerability impact and documented mitigation strategies
 
-(Upcoming: Cross-Site Scripting (XSS), Advanced VAPT Labs)
+### 🔹 Cross-Site Scripting (XSS) – OWASP Juice Shop
+- Demonstrated DOM-based XSS vulnerability
+- Executed JavaScript payload in browser (`alert`)
+- Observed input sanitization and bypass techniques
+- Documented impact and mitigation strategies
+- Included proof with screenshots
+
+## 🔐 About This Repository
+This repository showcases my hands-on practice in Vulnerability Assessment and Penetration Testing (VAPT), focusing on identifying, exploiting, and documenting real-world web application vulnerabilities.
 
 ## 🎯 Career Objective
 To develop advanced expertise in cybersecurity and contribute to securing real-world applications as a professional penetration tester.
