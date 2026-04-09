@@ -49,19 +49,19 @@ Screenshots:
 
 Basic Scan:
 
-![Basic](nmap1.png)
+![Basic Scan](nmap1.png)
 
 Service Scan:
 
-![Service](nmap2.png)
+![Service Scan](nmap2.png)
 
 Advanced Scan:
 
-![Advanced](namp3.png)
+![Advanced Scan](namp3.png)
 
 Port Scan:
 
-![Port](nmap4.png)
+![Port Scan](nmap4.png)
 
 Conclusion:
 Nmap helped identify open ports and services. This shows how attackers can find entry points and why security is important.
