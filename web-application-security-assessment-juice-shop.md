@@ -1,7 +1,7 @@
 # 🎯 Target
 OWASP Juice Shop (http://localhost:3000)
 
-# 🔹 Analyzed application behavior with different user inputs
+# 🔹  Analyzed application responses to different user inputs
 
 - Performed manual security testing on a vulnerable web application
 - Tested authentication mechanisms for SQL Injection vulnerabilities
