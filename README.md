@@ -40,20 +40,20 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 👉 [View Report](./nmap-localhost-scan.md)
 
 ### 🔹 SQL Injection – DVWA
-Performed SQL Injection testing in DVWA lab environment
-Tested vulnerable User ID parameter using SQL Injection payloads
-Observed unauthorized database record disclosure through improper input validation
-Analyzed authentication bypass behavior and SQL query manipulation
-Documented vulnerability impact and remediation techniques
+- Performed SQL Injection testing in DVWA lab environment
+- Tested vulnerable User ID parameter using SQL Injection payloads
+- Observed unauthorized database record disclosure through improper input validation
+- Analyzed authentication bypass behavior and SQL query manipulation
+- Documented vulnerability impact and remediation techniques
 👉 [View Report](./dvwa-sql-injection.md).     
 
 ### 🔹 Reflected Cross-Site Scripting (XSS) – DVWA
-Performed reflected XSS testing in DVWA vulnerable web application
-Executed JavaScript payload using browser input fields
-Successfully triggered client-side JavaScript execution through unsanitized user input
-Analyzed reflected input behavior and application security weakness
-Documented impact and mitigation recommendations
-👉 View Report(./   ).
+- Performed reflected XSS testing in DVWA vulnerable web application
+- Executed JavaScript payload using browser input fields
+- Successfully triggered client-side JavaScript execution through unsanitized user input
+- Analyzed reflected input behavior and application security weakness
+- Documented impact and mitigation recommendations
+👉 [View Report](./dvwa-xss-testing.md).
 
 
 ## 🎯 Career Objective
