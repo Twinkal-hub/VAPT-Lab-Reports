@@ -37,7 +37,7 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 - Performed network scanning and service enumeration using Nmap  
 - Identified open ports and running services  
 - Analyzed potential attack surface  
-👉 [View Report](./nmap-localhost-scan.md)
+👉 [View Report](./nmap-scan/report.md)
 
 
 ### 🔹 SQL Injection – DVWA  
