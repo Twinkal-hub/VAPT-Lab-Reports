@@ -51,3 +51,14 @@ An attacker could exploit this vulnerability to:
 
 # Result
 SQL Injection vulnerability successfully identified and validated in DVWA lab environment.
+
+## Screenshots
+
+### Normal Application Behavior
+
+![Normal SQL Injection Testing](dvwa-sqli-normal.png)
+
+### SQL Injection Payload Exploitation
+
+![SQL Injection Payload](dvwa-sqli-payload.png)
+
