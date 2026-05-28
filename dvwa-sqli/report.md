@@ -60,5 +60,5 @@ SQL Injection vulnerability successfully identified and validated in DVWA lab en
 
 ### SQL Injection Payload Exploitation
 
-![SQL](normal.png)
+![SQL](dvwa-sqli-payload.png).
 
