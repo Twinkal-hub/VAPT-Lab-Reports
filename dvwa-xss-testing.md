@@ -50,3 +50,14 @@ An attacker could exploit this vulnerability to:
 # Result
 
 Reflected Cross-Site Scripting (XSS) vulnerability successfully identified and validated in DVWA lab environment.
+
+## Screenshots
+
+### XSS Payload Input
+
+![XSS Payload Testing](dvwa-xss-input.png)
+
+### Successful JavaScript Execution
+
+![XSS Alert Popup](dvwa-xss-popup.png)
+
