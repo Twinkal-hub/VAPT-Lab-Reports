@@ -54,7 +54,7 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 - Successfully triggered client-side JavaScript execution through unsanitized user input  
 - Analyzed reflected input behavior and application security weakness  
 - Documented impact and mitigation recommendations  
-👉 [View Report](./dvwa-xss-testing.md)
+👉 [View Report](./dvwa-xss/report.md)
 
 
 ## 🎯 Career Objective
