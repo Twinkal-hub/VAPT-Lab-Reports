@@ -45,7 +45,7 @@ Tested vulnerable User ID parameter using SQL Injection payloads
 Observed unauthorized database record disclosure through improper input validation
 Analyzed authentication bypass behavior and SQL query manipulation
 Documented vulnerability impact and remediation techniques
-👉 View Report(./ ).
+👉 [View Report](./dvwa-sql-injection.md).     
 
 ### 🔹 Reflected Cross-Site Scripting (XSS) – DVWA
 Performed reflected XSS testing in DVWA vulnerable web application
