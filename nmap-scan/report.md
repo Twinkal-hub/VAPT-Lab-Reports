@@ -57,7 +57,7 @@ Service Scan:
 
 Advanced Scan:
 
-![Port Discovery](nmap3.png)
+![Port Discovery](namp3.png)
 
 Port Scan:
 
