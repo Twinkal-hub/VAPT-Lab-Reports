@@ -45,7 +45,7 @@ The objective of this lab was to perform basic authentication security testing o
 
 ### Login Page
 
-![Login Page](login-page.png)
+![Login Page](login-pagetest.png)
 
 ### Successful Login Response
 
