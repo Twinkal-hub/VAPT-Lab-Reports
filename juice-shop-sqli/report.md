@@ -1,33 +1,62 @@
-# SQL Injection - OWASP Juice Shop
+# SQL Injection Testing – OWASP Juice Shop
 
-## Overview
-SQL Injection allows bypassing authentication by manipulating database queries.
+## Objective
 
-## Target
-OWASP Juice Shop Login Page
+The objective of this lab was to perform basic SQL Injection testing on the OWASP Juice Shop login functionality and observe authentication behavior caused by improper input handling.
+
+## Target Application
+
+* OWASP Juice Shop
+* Testing Environment: Kali Linux
+* Vulnerability Category: SQL Injection (Authentication Bypass)
+
+## Methodology
+
+1. Opened the OWASP Juice Shop login page.
+2. Identified the email and password input fields for testing.
+3. Entered a crafted SQL Injection payload into the login form.
+4. Submitted the payload to observe application behavior.
+5. Analyzed the authentication response and redirection behavior after login.
 
 ## Payload Used
-' OR 1=1 --
 
-## Steps to Reproduce
-1. Open login page
-2. Enter payload in email field
-3. Enter any password
-4. Login successful without valid credentials
+```sql
+admin@juice-sh.op' OR 1=1--
+```
+## Testing Results
 
-## Impact
-- Unauthorized access
-- Admin account compromise
-- Data exposure risk
+* The application accepted the crafted payload during authentication testing.
+* After login submission, the application redirected to the product dashboard.
+* This behavior demonstrated improper input validation and insecure handling of authentication queries.
 
-## Mitigation
-- Use parameterized queries
-- Input validation
-- Prepared statements
+## Security Impact
 
-## Proof
-### 🔹 Payload Injection (Login Bypass)
+If improperly secured in real-world applications, SQL Injection vulnerabilities may allow:
+
+* Unauthorized access to application accounts
+* Authentication bypass
+* Database manipulation
+* Exposure of sensitive information
+  
+## Mitigation Recommendations
+
+* Use parameterized queries / prepared statements
+* Implement server-side input validation
+* Apply proper authentication controls
+* Sanitize user-supplied input
+* Use Web Application Firewalls (WAF)
+
+## Screenshots
+
+### Login Payload Testing
+
 ![SQL Injection Payload](payload.png)
 
-### 🔹 Admin Access Achieved
-![Admin Access](admin-access.png)
+### Dashboard Access After Login
+
+![Dashboard Access](dashboard-access.png)
+
+## Conclusion
+
+This lab demonstrated basic SQL Injection testing techniques using OWASP Juice Shop in a controlled environment. The exercise improved understanding of authentication bypass behavior and secure input handling practices.
+
