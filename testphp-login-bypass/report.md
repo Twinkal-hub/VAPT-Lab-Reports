@@ -56,7 +56,7 @@ The objective of this lab was to perform basic authentication security testing o
 ![Burp Suite Capture](burpsuite-request.png)
 
 ### User Data Display
-![User Data](./testphp-user-data.png)
+![User Data](./testphp-user.png)
 
 ## Conclusion
 This lab improved understanding of web authentication testing, request interception, and login workflow analysis using Burp Suite in a controlled testing environment.
