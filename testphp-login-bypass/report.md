@@ -47,15 +47,11 @@ The objective of this lab was to perform basic authentication security testing o
 
 ![Login Page](login-pagetest.png)
 
-### Successful Login Response
-
-![Login Success](login-success.png)
-
 ### Burp Suite Request Interception
 
 ![Burp Suite Capture](burpsuite-request.png)
 
-### User Data Display
+###  User Registration / Data Handling
 ![User Data](./testphp-user.png)
 
 ## Conclusion
