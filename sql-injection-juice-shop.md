@@ -4,7 +4,7 @@
 SQL Injection allows bypassing authentication by manipulating database queries.
 
 ## Target
-OWASP Juice Shop Login Page
+testphp & OWASP Juice Shop Login Page
 
 ## Payload Used
 ' OR 1=1 --
