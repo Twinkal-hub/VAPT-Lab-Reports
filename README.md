@@ -31,7 +31,7 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 - Observed input sanitization and bypass techniques  
 - Documented impact and mitigation strategies   
 - Result: Successfully achieved client-side script execution  
-👉 [View Report](./xss-juice-shop.md)
+👉 [View Report](./juice-shop-xss/report.md)
 
 ### 🔹 Nmap Scanning – Localhost
 - Performed network scanning and service enumeration using Nmap  
