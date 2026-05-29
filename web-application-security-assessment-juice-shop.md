@@ -15,7 +15,7 @@ OWASP Juice Shop (http://localhost:3000)
 ## 🔍 Key Testing Techniques
 - Input validation testing  
 - Authentication bypass testing  
-- Client-side script injection (XSS)  
+- Client-side script injection (XSS)
 - Error-based analysis  
 
 ## ⚠️ Findings
