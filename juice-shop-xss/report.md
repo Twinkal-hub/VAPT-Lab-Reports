@@ -10,7 +10,11 @@ OWASP Juice Shop Application
 DOM-Based XSS
 
 ## Payload Used
+
+```XSS
 <img src=x onerror=alert('XSS')>
+```
+
 
 ## Steps to Reproduce
 1. Open OWASP Juice Shop application
