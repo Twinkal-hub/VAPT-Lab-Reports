@@ -23,7 +23,7 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 - Executed authentication bypass using SQL Injection payloads  
 - Successfully gained unauthorized administrative access  
 - Analyzed vulnerability impact and documented mitigation strategies  
-👉 [View Report](./sql-injection-juice-shop.md)
+👉 [View Report](./juice-shop-sqli/report.md)
 
 ### 🔹 Cross-Site Scripting (XSS) – OWASP Juice Shop  
 - Demonstrated DOM-based XSS vulnerability  
