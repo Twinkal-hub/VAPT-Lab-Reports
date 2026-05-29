@@ -59,8 +59,8 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 ### 🔹 Authentication Testing – Acunetix TestPHP
 - Performed login testing and request interception 
 - Analyzed authentication workflow using Burp Suite 
-- Conducted technology reconnaissance using Wappalyzer
-👉 [View Report](.testphp-login-bypass/report.md)
+- Conducted technology reconnaissance using Wappalyzer      
+👉 [View Report](./testphp-login-bypass/report.md)
 
 ## 🎯 Career Objective
 To develop advanced expertise in cybersecurity and contribute to securing real-world applications as a professional penetration tester.
