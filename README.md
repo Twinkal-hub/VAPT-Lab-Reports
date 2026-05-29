@@ -57,11 +57,10 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 👉 [View Report](./dvwa-xss/report.md)
 
 ### 🔹 Authentication Testing – Acunetix TestPHP
-- Performed login testing and request interception
-- Analyzed authentication workflow using Burp Suite
+- Performed login testing and request interception 
+- Analyzed authentication workflow using Burp Suite 
 - Conducted technology reconnaissance using Wappalyzer
-👉 [View Report](./acunetix-testphp/report.md)
-
+👉 [View Report](.testphp-login-bypass/report.md)
 
 ## 🎯 Career Objective
 To develop advanced expertise in cybersecurity and contribute to securing real-world applications as a professional penetration tester.
