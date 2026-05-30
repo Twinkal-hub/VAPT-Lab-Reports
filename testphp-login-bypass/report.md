@@ -11,11 +11,30 @@ The objective of this lab was to perform basic authentication security testing o
 
 ## Methodology
 1. Opened the TestPHP login page in the browser.
-2. Entered test credentials into the login form.
+2. Performed login testing using test credentials in the authentication form.
 3. Intercepted the authentication request using Burp Suite.
 4. Analyzed POST request parameters and login behavior.
-5. Observed application responses after authentication.
+5. Observed application behavior and responses during authentication testing.
+6. Performed basic technology reconnaissance to identify application stack information.
 
+## Technology Reconnaissance
+
+**Tool Used:** Wappalyzer Browser Extension
+
+As part of the assessment, basic technology fingerprinting was performed using Wappalyzer to identify technologies used by the target application.
+
+### Technologies Identified
+- Nginx Web Server
+- PHP
+- Ubuntu Operating System
+  
+### Security Relevance
+Technology reconnaissance helps security testers understand:
+- Web application architecture
+- Potential attack surface
+- Server technologies in use
+- Areas that may require further security assessment
+  
 ## Testing Activities
 * Login form analysis
 * HTTP request interception
@@ -33,23 +52,6 @@ The objective of this lab was to perform basic authentication security testing o
 * Credential exposure risks
 * Session manipulation
 * Weak input validation
-
-## Technology Reconnaissance
-As part of the assessment, basic technology fingerprinting was performed using the Wappalyzer browser extension to identify technologies used by the target application.
-
-### Technologies Identified
-* Nginx Web Server
-* PHP
-* Ubuntu Operating System
-
-### Security Relevance
-
-Technology reconnaissance helps security testers understand:
-
-* Web application architecture
-* Potential attack surface
-* Server technologies in use
-* Areas that may require further security assessment
 
 ## Mitigation Recommendations
 * Implement secure authentication mechanisms
@@ -72,7 +74,8 @@ Technology reconnaissance helps security testers understand:
 
 ![Burp Suite Capture](burpsuite-request.png)
 
-###  User Registration / Data Handling
+### User Data Display
+
 ![User Data](./testphp-user.png)
 
 ## Conclusion
