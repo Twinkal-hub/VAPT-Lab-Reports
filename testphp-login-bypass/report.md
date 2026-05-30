@@ -34,6 +34,23 @@ The objective of this lab was to perform basic authentication security testing o
 * Session manipulation
 * Weak input validation
 
+## Technology Reconnaissance
+As part of the assessment, basic technology fingerprinting was performed using the Wappalyzer browser extension to identify technologies used by the target application.
+
+### Technologies Identified
+* Nginx Web Server
+* PHP
+* Ubuntu Operating System
+
+### Security Relevance
+
+Technology reconnaissance helps security testers understand:
+
+* Web application architecture
+* Potential attack surface
+* Server technologies in use
+* Areas that may require further security assessment
+
 ## Mitigation Recommendations
 * Implement secure authentication mechanisms
 * Use strong server-side validation
@@ -46,6 +63,10 @@ The objective of this lab was to perform basic authentication security testing o
 ### Login Page
 
 ![Login Page](login-pagetest.png)
+
+### Technology Reconnaissance (Wappalyzer)
+
+![Technology Fingerprinting](recon-homepage.png)
 
 ### Burp Suite Request Interception
 
