@@ -66,7 +66,7 @@ Technology reconnaissance helps security testers understand:
 
 ### Technology Reconnaissance (Wappalyzer)
 
-![Technology Fingerprinting](recon-homepage.png)
+![Technology Fingerprinting](recon-home.png)
 
 ### Burp Suite Request Interception
 
