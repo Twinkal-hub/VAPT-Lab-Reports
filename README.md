@@ -63,7 +63,8 @@ This repository highlights my hands-on experience in Vulnerability Assessment an
 👉 [View Report](./testphp-login-bypass/report.md)
 
 ## 🎯 Career Objective
-To develop advanced expertise in cybersecurity and contribute to securing real-world applications as a professional penetration tester.
+
+To apply practical VAPT methodologies, secure software testing workflows, and threat analysis skills within a corporate enterprise environment as a Junior Cybersecurity professional.
 
 ## 👤 Author
 **Twinkal Rana**  
